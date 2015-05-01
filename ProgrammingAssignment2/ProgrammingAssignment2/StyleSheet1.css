@@ -1,0 +1,18 @@
+﻿button {
+    margin-top:3%;
+}
+
+.container {
+    margin-top:10%;
+    padding-right:15%;
+    padding-left:15%;
+}
+
+.divInput {
+    text-align:center;
+}
+
+.page-header h1{
+    font-family: 'Roboto Slab', serif;
+    text-align:center;
+}
