@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\ProgrammingAssignment2\ProgrammingAssignment2\bin\ProgrammingAssignment2.dll.config
+c:\users\alex\documents\visual studio 2013\Projects\ProgrammingAssignment2\ProgrammingAssignment2\bin\ProgrammingAssignment2.dll
+c:\users\alex\documents\visual studio 2013\Projects\ProgrammingAssignment2\ProgrammingAssignment2\bin\ProgrammingAssignment2.pdb
+c:\users\alex\documents\visual studio 2013\Projects\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.dll
+c:\users\alex\documents\visual studio 2013\Projects\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
+c:\users\alex\documents\visual studio 2013\Projects\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
